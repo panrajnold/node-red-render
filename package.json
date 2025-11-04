@@ -1,0 +1,13 @@
+{
+  "name": "node-red-render",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node-red --settings ./settings.js"
+  },
+  "dependencies": {
+    "node-red": "^3.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
